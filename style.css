@@ -1,0 +1,16 @@
+.START{
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    text-align: center;
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+.heading{
+    box-shadow: inset 0 0 10px #000000;
+    text-align: center;
+    background-image: linear-gradient(to right bottom, #189f35, #46af34, #67be33, #87cd32, #a7dc31);
+}
+.name{
+    box-shadow: 7px 0px 64px -7px rgba(0,0,0,0.5);
+    text-align: center;
+    background-image: linear-gradient(to right bottom, #189f35, #46af34, #67be33, #87cd32, #a7dc31);
+}
+
